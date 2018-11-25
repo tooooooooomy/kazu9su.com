@@ -13,3 +13,4 @@
 //= require rails-ujs
 //= require activestorage
 //= require_tree .
+//= require uikit/dist/js/uikit.min

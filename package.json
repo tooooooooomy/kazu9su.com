@@ -1,5 +1,7 @@
 {
   "name": "kazu9su",
   "private": true,
-  "dependencies": {}
+  "dependencies": {
+    "uikit": "^3.0.0"
+  }
 }
